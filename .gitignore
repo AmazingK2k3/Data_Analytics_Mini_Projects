@@ -1,2 +1,7 @@
 /.venv
 /.vscode
+#ignore all csv files
+*.csv
+#ignore all zip files
+*.zip
+
